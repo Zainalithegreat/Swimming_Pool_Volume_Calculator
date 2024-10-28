@@ -1,7 +1,5 @@
 <?php
 
-echo 'hello world';
-
 $diameter = $_GET['diameter'];
 $depth = $_GET['depth'];
 $radius = $diameter / 2;
