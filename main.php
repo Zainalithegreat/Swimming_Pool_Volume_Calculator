@@ -7,7 +7,7 @@
 </head>
 <body>
 <h1>Swimming Pool Calculator</h1>
-<p>How mych water will it take to fill an above-ground pool?</p>
+<p>How much water will it take to fill an above-ground pool?</p>
     <form method="get" action="calculate.php">
         <table>
             <tr><td>Enter the diameter:</td><td><input type="text" name="diameter" width="100"</td></tr>
